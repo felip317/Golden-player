@@ -1,0 +1,15 @@
+# Docker
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vendor 
+vendor/
+
+# Node 
+node_modules/
