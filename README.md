@@ -41,7 +41,20 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 - Git
 
 ---
+## Variables de entorno
 
+El proyecto utiliza un archivo `.env` para la configuración de la base de datos.
+
+Por razones de seguridad, este archivo no se incluye en el repositorio.
+Para ejecutar el proyecto, se debe crear un archivo `.env` en la raíz
+con la siguiente estructura:
+
+DB_HOST=db
+DB_NAME=goal
+DB_USER=root
+DB_PASS=root
+
+---
 ## Instalación y ejecución
 
 1. git clone https://github.com/felip317/Golden-player.git
