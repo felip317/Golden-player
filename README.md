@@ -71,6 +71,16 @@ DB_PASS=root
 - Auditoría de seguridad
 
 ---
+## Usuarios registrados
+-Administrador
+email: admin@gmail.com.co
+password: A9f#Q2mL!7
+
+-Usuario
+email: alex@gmail.com
+password: password
+
+---
 
 ## Autor
 Carlos Felipe Valbuena Corredor
