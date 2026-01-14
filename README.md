@@ -59,7 +59,7 @@ DB_PASS=root
 
 1. git clone https://github.com/felip317/Golden-player.git
 2. cd golden-player
-3. docker compose up -d
+3. docker-compose up -d --build
 4. Acceder a http://localhost:8080
 
 ---
